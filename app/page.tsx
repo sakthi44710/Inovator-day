@@ -1,6 +1,5 @@
-import ShipRoutingApp from '../components/ShipRoutingApp';
+import EnhancedShipRoutingApp from '../components/EnhancedShipRoutingApp';
 
 export default function Home() {
-  return <ShipRoutingApp />;
+  return <EnhancedShipRoutingApp />;
 }
-
